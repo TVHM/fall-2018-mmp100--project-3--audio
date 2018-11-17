@@ -16,7 +16,7 @@ For this project, you’ll use Audacity to create a 90-second audio collage that
 ['http://mmp.bmcc.cuny.edu/tonya.mcphearson/fall-2018/mmp-100/project-3/'](http://mmp.bmcc.cuny.edu/tonya.mcphearson/fall-2018/mmp-100/project-3/)
 
 ### Description
-This is a mix of a SoundCloud depeche mode remix recording with my voice reading the script from the film Cool Hand Luke ( the name of a book in the Bible) and one original piano track
+This is a mix of a SoundCloud depeche mode remix recording with my voice reading the script from the film Cool Hand Luke ( the name of a book in the Bible) and one original piano track and one mp3 mixed file from ccMixter called Surrender Your Weapons
 
 ## Rules
 * **Do not** add or remove any files to this repo.
